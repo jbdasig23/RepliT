@@ -1,2 +1,2 @@
-for judes in range(9):
-    print('A number:', judes)
+for dasig in range(9):
+    print('A number:', dasig)
